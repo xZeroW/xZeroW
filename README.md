@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **vic.marts@gmail.com**
+- 📫 How to reach me **vic_marts@hotmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
