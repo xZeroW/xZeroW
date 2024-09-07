@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor Damasceno</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **godot**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **vic_marts@hotmail.com**
+- 📫 How to reach me **victordmartins@protonmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
